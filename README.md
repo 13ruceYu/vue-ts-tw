@@ -11,4 +11,3 @@ A simple template with my favorite stack and basic features:
 ---
 
 - Dark/Light Mode Toggle
-- i18n
